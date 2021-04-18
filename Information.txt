@@ -1,0 +1,4 @@
+The following "Add-in" was created for Geotab Inc. to display information about vehicles on
+a map. A picture of the add-in is found in Figure 1 at the link below:
+
+https://geotab.github.io/sdk/software/guides/map-add-ins-docs/
